@@ -1,10 +1,10 @@
 'use client'
 
-import { forwardRef, HTMLAttributes } from 'react'
-import { motion, MotionProps } from 'framer-motion'
+import { forwardRef } from 'react'
+import { motion, HTMLMotionProps } from 'framer-motion'
 import { cn } from '@/lib/utils'
 
-interface GlassCardProps extends HTMLAttributes<HTMLDivElement>, MotionProps {
+interface GlassCardProps extends HTMLMotionProps<'div'> {
   hoverable?: boolean
   glassIntensity?: 'light' | 'medium' | 'heavy'
 }

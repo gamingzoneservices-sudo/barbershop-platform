@@ -1,7 +1,7 @@
 'use client'
 
 import { forwardRef } from 'react'
-import { motion, MotionProps } from 'framer-motion'
+import { motion, HTMLMotionProps } from 'framer-motion'
 import { cva, type VariantProps } from 'class-variance-authority'
 import { cn } from '@/lib/utils'
 
@@ -33,9 +33,8 @@ const buttonVariants = cva(
 )
 
 export interface ButtonProps
-  extends React.ButtonHTMLAttributes<HTMLButtonElement>,
-    VariantProps<typeof buttonVariants>,
-    MotionProps {
+  extends HTMLMotionProps<'button'>,
+    VariantProps<typeof buttonVariants> {
   asChild?: boolean
 }
 
