@@ -1,0 +1,33 @@
+{
+  "common": {
+    "bookNow": "Jetzt Buchen",
+    "learnMore": "Mehr Erfahren",
+    "contact": "Kontakt",
+    "home": "Startseite",
+    "services": "Leistungen",
+    "gallery": "Galerie",
+    "team": "Team"
+  },
+  "hero": {
+    "title": "Wo Handwerk Kunst trifft",
+    "subtitle": "Luxuriöser Friseursalon · Berlin",
+    "cta": "Termin Buchen"
+  },
+  "booking": {
+    "title": "Termin Buchen",
+    "selectDate": "Datum Wählen",
+    "selectTime": "Uhrzeit Wählen",
+    "selectBarber": "Friseur Wählen",
+    "yourDetails": "Ihre Daten",
+    "name": "Vollständiger Name",
+    "phone": "Telefonnummer",
+    "email": "E-Mail Adresse",
+    "notes": "Anmerkungen (optional)",
+    "confirm": "Buchung Bestätigen",
+    "confirmed": "Buchung Bestätigt!"
+  },
+  "footer": {
+    "copyright": "© {year} {businessName}",
+    "developed": "Entwickelt von Suliman.H"
+  }
+}
