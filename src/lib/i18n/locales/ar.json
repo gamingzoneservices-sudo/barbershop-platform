@@ -1,0 +1,33 @@
+{
+  "common": {
+    "bookNow": "احجز الآن",
+    "learnMore": "اعرف المزيد",
+    "contact": "اتصل بنا",
+    "home": "الرئيسية",
+    "services": "الخدمات",
+    "gallery": "المعرض",
+    "team": "الفريق"
+  },
+  "hero": {
+    "title": "حيث تلتقي الحرفية بالفن",
+    "subtitle": "صالون حلاقة فاخر · برلين",
+    "cta": "احجز موعداً"
+  },
+  "booking": {
+    "title": "حجز موعد",
+    "selectDate": "اختر التاريخ",
+    "selectTime": "اختر الوقت",
+    "selectBarber": "اختر الحلاق",
+    "yourDetails": "بياناتك",
+    "name": "الاسم الكامل",
+    "phone": "رقم الهاتف",
+    "email": "البريد الإلكتروني",
+    "notes": "ملاحظات (اختياري)",
+    "confirm": "تأكيد الحجز",
+    "confirmed": "تم تأكيد الحجز!"
+  },
+  "footer": {
+    "copyright": "© {year} {businessName}",
+    "developed": "طور بواسطة Suliman.H"
+  }
+}
