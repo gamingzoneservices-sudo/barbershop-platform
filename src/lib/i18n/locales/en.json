@@ -1,0 +1,33 @@
+{
+  "common": {
+    "bookNow": "Book Now",
+    "learnMore": "Learn More",
+    "contact": "Contact",
+    "home": "Home",
+    "services": "Services",
+    "gallery": "Gallery",
+    "team": "Team"
+  },
+  "hero": {
+    "title": "Where Craft Meets Art",
+    "subtitle": "Luxury Barbershop · Berlin",
+    "cta": "Book Appointment"
+  },
+  "booking": {
+    "title": "Book Appointment",
+    "selectDate": "Select Date",
+    "selectTime": "Select Time",
+    "selectBarber": "Select Barber",
+    "yourDetails": "Your Details",
+    "name": "Full Name",
+    "phone": "Phone Number",
+    "email": "Email Address",
+    "notes": "Notes (optional)",
+    "confirm": "Confirm Booking",
+    "confirmed": "Booking Confirmed!"
+  },
+  "footer": {
+    "copyright": "© {year} {businessName}",
+    "developed": "Developed by Suliman.H"
+  }
+}
